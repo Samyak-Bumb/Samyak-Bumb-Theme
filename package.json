@@ -1,0 +1,96 @@
+{
+    "name": "samyak",
+    "displayName": "Samyak Bumb",
+    "description": "Preferred Dark Theme By Samyak Bumb. Best Dark Theme Ever You Have Seen.",
+    "version": "3.2.5",
+    "publisher": "SamyakBumb",
+    "icon": "img/pic.png",
+    "repository": {
+        "url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme"
+    },
+    "keywords": [
+        "Theme",
+        "Themes",
+        "italic",
+        "bold",
+        "indent-Rainbow",
+        "VSC-Essentials",
+        "blue",
+        "git",
+        "jav",
+        "java",
+        "javascript",
+        "js",
+        "html",
+        "css",
+        "py",
+        "python",
+        "italic Theme",
+        "italic Themes",
+        "Dark Theme",
+        "Light Theme",
+        "VSCode",
+        "Samyak Bumb",
+        "Samyak's Theme",
+        "SamyakBumb",
+        "Bumb",
+        "html",
+        "css",
+        "js",
+        "java",
+        "javascript",
+        "python",
+        "unique theme",
+        "unique t",
+        "s",
+        "sa",
+        "sam",
+        "syak",
+        "samyk",
+        "syak",
+        "ak",
+        "best",
+        "cobalt2",
+        "winter",
+        "sayak",
+        "samyakk",
+        ".",
+        "microsoft",
+        "publishedDate",
+        "popular",
+        "recommended",
+        "neon",
+        "neondark",
+        "vsc-theme",
+        "customization",
+        "color-theme",
+        "color-themes",
+        "color theme",
+        "unique",
+        "unique theme",
+        "unique themes",
+        "dracula",
+        "purva",
+        "other"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Samyak Bumb",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Samyak Bumb-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "electron-rebuild": "^3.2.3",
+        "eslint": "^8.1.0"
+    }
+}
