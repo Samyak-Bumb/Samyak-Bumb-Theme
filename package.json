@@ -6,6 +6,7 @@
     "publisher": "SamyakBumb",
     "icon": "img/pic.png",
     "repository": {
+        "type": "git",
         "url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme"
     },
     "keywords": [
