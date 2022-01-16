@@ -106,7 +106,7 @@
     "checkbox.background": "#21252b",
     "checkbox.foreground": "#b0b7c3",
     "checkbox.border": "#181a1f",
-    "gitDecoration.modifiedResourceForeground": "#b893ceee",
+    "gitDecoration.modifiedResourceForeground": "#bf92daee", //b893ceee
     "gitDecoration.deletedResourceForeground": "#fe4450",
     "gitDecoration.addedResourceForeground": "#72f1b8cc",
     "gitDecoration.untrackedResourceForeground": "#72f1b8",
@@ -537,22 +537,16 @@
       "scope": "variable.other.object.js",
       "settings": {
         "fontStyle": "",
-        "foreground": "#82d3f3"
+        "foreground": "#fd69c2"
       }
     },
     {
       "scope": [
-        "variable.other.constant.js"
+        "variable.other.constant.js",
+        "variable.other.readwrite.js"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
-      }
-    },
-    {
-      "scope": "variable.other.readwrite.js",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#bfc7d5"
+        "foreground": "#82d3f3"
       }
     },
     {
@@ -563,7 +557,7 @@
         "punctuation.definition.string.end.js"
       ],
       "settings": {
-        "foreground": "#b4dce7"
+        "foreground": "#49db99"
       }
     },
     {

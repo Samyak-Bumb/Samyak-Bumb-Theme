@@ -10,11 +10,11 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 ![GitHub](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?color=%23ff0055&label=License&logo=License&style=flat)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
 
-> ![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/html.png)
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/html.png)
 
-> ![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/css.png)
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/css.png)
 
-> ![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/js.png)
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/js.png)
 
 # Specially Optimized for:
 
