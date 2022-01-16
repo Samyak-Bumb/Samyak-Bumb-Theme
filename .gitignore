@@ -1,0 +1,4 @@
+*.vscodeignore
+.vscode/**
+*.vsix
+img/ico.png
