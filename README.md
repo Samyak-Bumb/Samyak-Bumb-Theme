@@ -77,11 +77,11 @@ Launch _Quick_ Open:
 
   Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
 
-  Enjoy!!! 😉😎😍😄👍
+  Enjoy & Relax !!! 😉😎😍😄👍
 
 ## Thanks ❤️
 
-- Inspiration - **Eva**, **JellyFish**, **LaserWave**, **Dracula**, **After Dark**, **SynthWave '84** & **Winter is Coming**
+- Inspiration - **Eva**, **JellyFish**, **LaserWave**, **Dracula**, **After Dark**, **SynthWave '84**, **Winter is Coming** & [Themes Vscode One](https://themes.vscode.one)
 
 ---
 
