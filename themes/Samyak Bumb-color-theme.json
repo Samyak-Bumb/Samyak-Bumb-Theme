@@ -193,12 +193,12 @@
     "sideBarTitle.foreground": "#7799bb",
     "sideBarSectionHeader.border": "#68888d",
     "activityBar.background": "#000027",
-    "activityBar.foreground": "#96a4cd",
+    "activityBar.foreground": "#90a1d3", //96a4cd
     "activityBar.border": "#219fd544",
     "activityBar.activeBackground": "#000027",
     "activityBar.activeBorder": "#4480f4",
     "activityBar.dropBorder": "#4480f4",
-    "activityBar.inactiveForeground": "#ffffff40",
+    "activityBar.inactiveForeground": "#444444ce", //ffffff40
     "activityBarBadge.background": "#598def",
     "activityBarBadge.foreground": "#e9e9e9",
     "statusBar.background": "#000027",
