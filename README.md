@@ -31,7 +31,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>Inf · Ini</em>
   <br>
-  <em>JavaScript · JSON / JSON with comments · React · TypeScript</em>
+  <em>JavaScript · JSON / JSON with Comments · React · TypeScript</em>
   <br>
   <em>Diff</em>
   <br>
@@ -65,7 +65,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File [Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.1.vsix) Link
+VSIX File [Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.2.vsix) Link
 
 ## Activate Theme
 
