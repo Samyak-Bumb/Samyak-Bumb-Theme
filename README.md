@@ -1,5 +1,3 @@
-<!-- TODO: LINE NO:- 44,64 -->
-
 <h1 align="center">
 	Samyak Bumb Theme for Visual Studio Code
 </h1>
@@ -10,11 +8,13 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 ![GitHub](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?color=%23ff0055&label=License&logo=License&style=flat)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/html.png)
+![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png)
 
-![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/css.png)
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/html.png)
 
-![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/js.png)
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png)
+
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png)
 
 # Specially Optimized for:
 
@@ -49,7 +49,9 @@ Step 1 - GitHub Link = [Download](https://github.com/Samyak-Bumb/VS_Code-Setup/a
 
 Step 2 - Read the "README.md" File from it & Follow It
 
-# Getting started
+---
+
+![Install](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/install.png)
 
 # Installation of Theme
 
@@ -77,7 +79,7 @@ Launch _Quick_ Open:
 
   Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
 
-  Enjoy & Relax !!! 😉😎😍😄👍
+  Enjoy, Relax & Chill!!! 😉😎😍😄👍
 
 ## Thanks ❤️
 
@@ -93,10 +95,16 @@ Launch _Quick_ Open:
 Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues) if you find any wrong color or Have any Suggestion.
 
 <!-- If You **Like** the Theme Please Give 👇 -->
+---
+
+![Rate](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png)
 
 ## Rating/Review
 
 - [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details)
+---
+
+![License](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/license.png)
 
 # LICENSE
 
