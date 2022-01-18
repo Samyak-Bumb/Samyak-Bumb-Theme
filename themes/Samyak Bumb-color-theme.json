@@ -373,7 +373,6 @@
     "textPreformat.foreground": "#ff9070",
     "progressBar.background": "#b084eb"
   },
-  //
   "tokenColors": [
     {
       "scope": "emphasis",
