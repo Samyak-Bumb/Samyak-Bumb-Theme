@@ -27,7 +27,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>CSS · SCSS · Sass · Less</em>
   <br>
-  <em>HTML · Markdown · Php</em>
+  <em>HTML · Markdown · Php · Pug (Jade)</em>
   <br>
   <em>Inf · Ini</em>
   <br>
@@ -43,11 +43,9 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 # My VSCode Setup:
 
-Step 1 - GitHub Link = [Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip)
+Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip)**
 
-<!-- Step 2 - Download it (Click on `Code` (In Green Color) & Click `Download`) -->
-
-Step 2 - Read the "README.md" File from it & Follow It
+Step 2 - Read the "README.md" File From it & Follow it to Setup.
 
 ---
 
@@ -67,7 +65,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File [Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.3.vsix) Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.3.vsix)** Link
 
 ## Activate Theme
 
@@ -112,6 +110,6 @@ Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues)
 
 ---
 
-✨ Created/Designed by **[Samyak Bumb](https://github.com/samyak-bumb)** in **[Maharashtra, India (423601)]()**
+✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb)** in **[Maharashtra, India (423601)]()**
 
 ---
