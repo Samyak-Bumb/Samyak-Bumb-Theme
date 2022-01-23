@@ -65,7 +65,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.4.vsix)** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.5.vsix)** Link
 
 ## Activate Theme
 
