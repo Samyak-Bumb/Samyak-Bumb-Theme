@@ -10,7 +10,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png)
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/html.png)
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png)
 
 ![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png)
 
@@ -29,7 +29,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>HTML · Markdown · Php · Pug (Jade)</em>
   <br>
-  <em>Inf · Ini</em>
+  <em>Inf · Ini · AHK</em>
   <br>
   <em>JavaScript · JSON / JSON with Comments · React · TypeScript</em>
   <br>
@@ -90,7 +90,7 @@ Launch _Quick_ Open:
 ---
 ## Issues
 
-Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues) if you find any wrong color or Have any Suggestion.
+Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any wrong color or Have any Suggestion.
 
 <!-- If You **Like** the Theme Please Give 👇 -->
 ---

@@ -97,18 +97,18 @@
     "editorUnnecessaryCode.opacity": "#676e95c0",
     "editorUnicodeHighlight.border": "#ff000f",
     "editorBracketMatch.background": "#219fd54d",
-    "editorBracketHighlight.foreground1": "#c76cff",
-    "editorBracketHighlight.foreground2": "#ff54a9",
-    "editorBracketHighlight.foreground3": "#00ffff",
-    "editorBracketHighlight.foreground4": "#c76cff",
-    "editorBracketHighlight.foreground5": "#ff54a9",
+    "editorBracketHighlight.foreground1": "#cd7cff",//c76cff
+    "editorBracketHighlight.foreground2": "#fd3c9c",//ff54a9
+    "editorBracketHighlight.foreground3": "#09ffff",
+    "editorBracketHighlight.foreground4": "#cd7cff",
+    "editorBracketHighlight.foreground5": "#fd3c9c",
     "editorBracketHighlight.foreground6": "#00ffff",
-    "extensionButton.prominentBackground": "#4f74db",
+    "extensionButton.prominentBackground": "#3f68da",
     "extensionButton.prominentForeground": "#eeeeee",
-    "extensionButton.prominentHoverBackground": "#4f74dbcb",
+    "extensionButton.prominentHoverBackground": "#4b73e2cb",
     "extensionBadge.remoteForeground": "#219fd5",
     "extensionIcon.verifiedForeground": "#219fd5",
-    "extensionIcon.preReleaseForeground": "#3be03b",
+    "extensionIcon.preReleaseForeground": "#39cc39",
     "extensionIcon.starForeground": "#72efdd",
     "checkbox.background": "#21252b",
     "checkbox.foreground": "#b0b7c3",
@@ -757,9 +757,12 @@
       }
     },
     {
-      "scope": "variable.css",
+      "scope": [
+        "variable.css",
+        "variable.argument.css"
+      ],
       "settings": {
-        "foreground": "#ff8290"
+        "foreground": "#8299ff" //ff8290 //ecb1fff9
       }
     },
     {
@@ -769,12 +772,6 @@
       ],
       "settings": {
         "foreground": "#a06dfd" //a371ff
-      }
-    },
-    {
-      "scope": "variable.argument.css",
-      "settings": {
-        "foreground": "#5eb9ff"
       }
     },
     {
@@ -936,7 +933,7 @@
       ],
       "settings": {
         "foreground": "#36f9f6"
-      } //ecb1fff9
+      }
     },
     {
       "scope": [
@@ -1008,12 +1005,6 @@
       "scope": "string.quoted.double.batchfile",
       "settings": {
         "foreground": "#ff79c6"
-      }
-    },
-    {
-      "scope": "source.css",
-      "settings": {
-        "foreground": "#5ef7b2"
       }
     },
     {
@@ -1334,7 +1325,7 @@
         "punctuation.separator.key-value.html"
       ],
       "settings": {
-        "foreground": "#9b9b9b"
+        "foreground": "#9c9a9a"
       }
     },
     {
@@ -1344,6 +1335,15 @@
       ],
       "settings": {
         "foreground": "#d66a73"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.string.begin.scss",
+        "punctuation.definition.string.end.scss"
+      ],
+      "settings": {
+        "foreground": "#34e9bc"
       }
     },
     {
@@ -1380,7 +1380,7 @@
         "punctuation.definition.string.begin.html"
       ],
       "settings": {
-        "foreground": "#33d1aa" //88afff
+        "foreground": "#33d1aa"
       }
     }
   ]
