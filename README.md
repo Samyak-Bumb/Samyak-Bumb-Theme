@@ -8,13 +8,13 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 ![GitHub](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?color=%23ff0055&label=License&logo=License&style=flat)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
 
-![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png)
+![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png)
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HTML")
 
-![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png)
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png "CSS")
 
-![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png)
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png "JavaScript")
 
 # Specially Optimized for:
 
@@ -65,7 +65,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-5.1.5.vsix)** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-6.0.0.vsix)** Link
 
 ## Activate Theme
 
@@ -81,7 +81,7 @@ Launch _Quick_ Open:
 
 ## Thanks ❤️
 
-- Inspiration - **Eva**, **JellyFish**, **LaserWave**, **Dracula**, **After Dark**, **SynthWave '84**, **Winter is Coming** & [Themes Vscode One](https://themes.vscode.one)
+- Inspiration - Eva, JellyFish, LaserWave, Dracula, After Dark, SynthWave '84, Winter is Coming & Shades of Purple
 
 ---
 
