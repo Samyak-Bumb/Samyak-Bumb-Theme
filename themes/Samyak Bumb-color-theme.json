@@ -1360,7 +1360,7 @@
         "punctuation.definition.string.begin.html"
       ],
       "settings": {
-        "foreground": "#33d1aa"
+        "foreground": "#05d0ad" //33d1aa
       }
     },
     {
