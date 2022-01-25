@@ -1,5 +1,6 @@
-*.vscodeignore
-.vscode/**
-*.vsix
 img/ico.png
-*.github/**
+Theme/*.*
+.vscodeignore
+.vscode/*.*
+.github/*.*
+*.vsix

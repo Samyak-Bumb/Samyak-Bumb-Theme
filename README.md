@@ -88,18 +88,19 @@ Launch _Quick_ Open:
 > ## Thanks to Everyone
 
 ---
+
 ## Issues
 
 Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any wrong color or Have any Suggestion.
 
-<!-- If You **Like** the Theme Please Give 👇 -->
----
+## <!-- If You **Like** the Theme Please Give 👇 -->
 
 ![Rate](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png)
 
 ## Rating/Review
 
 - [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details)
+
 ---
 
 ![License](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/license.png)
