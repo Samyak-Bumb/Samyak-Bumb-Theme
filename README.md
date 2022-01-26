@@ -4,9 +4,9 @@
 
 This is the Best Theme ever on VS Code By Samyak Bumb.
 
-![Samyak](https://img.shields.io/badge/Theme-Samyak_Bumb-%23ff0055)
-![GitHub](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?color=%23ff0055&label=License&logo=License&style=flat)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
+<!-- ![Samyak](https://img.shields.io/badge/Theme-Samyak_Bumb-%23ff0055) -->
+![Name & Version](https://vsmarketplacebadge.apphb.com/version/samyakbumb.samyak.svg?subject=Samyak_Bumb&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
+![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License Here")
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
@@ -25,7 +25,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>Go · Ruby · F# · Java</em>
   <br>
-  <em>CSS · SCSS · Sass · Less</em>
+  <em>CSS · SASS · Scss · Less</em>
   <br>
   <em>HTML · Markdown · Php · Pug (Jade)</em>
   <br>
@@ -43,13 +43,13 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 # My VSCode Setup:
 
-Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip)**
+Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip "Direct Download Link from GitHub || https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip")**
 
 Step 2 - Read the "README.md" File From it & Follow it to Setup.
 
 ---
 
-![Install](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/install.png)
+![Install](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/install.png "Settings")
 
 # Installation of Theme
 
@@ -65,7 +65,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-6.0.1.vsix)** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-6.0.2.vsix "Latest .vsix File Download")** Link
 
 ## Activate Theme
 
@@ -77,7 +77,7 @@ Launch _Quick_ Open:
 
   Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
 
-  Enjoy, Relax & Chill!!! 😉😎😍😄👍
+  Relax, Enjoy & Chill!!! 😉😎😍😄👍
 
 ## Thanks ❤️
 
@@ -93,24 +93,22 @@ Launch _Quick_ Open:
 
 Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any wrong color or Have any Suggestion.
 
-## <!-- If You **Like** the Theme Please Give 👇 -->
-
-![Rate](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png)
+![Star](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png "5 Stars")
 
 ## Rating/Review
 
-- [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details)
+- [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details "VS Code Marketplace")
 
 ---
 
-![License](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/license.png)
+![License](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/license.png "License Check")
 
 # LICENSE
 
-© [MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt)
+[© MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt)
 
 ---
 
-✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb)** in **[Maharashtra, India (423601)]()**
+✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb "My GitHub Account")** in **[Maharashtra, India (423601)]()**
 
 ---
