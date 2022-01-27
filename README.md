@@ -29,9 +29,9 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>HTML · Markdown · Php · Pug (Jade)</em>
   <br>
-  <em>Inf · Ini · AHK</em>
+  <em>Inf · Ini · AHK · Registry</em>
   <br>
-  <em>JavaScript · JSON / JSON with Comments · React · TypeScript</em>
+  <em>JavaScript · JSON / JsonC · React · TypeScript</em>
   <br>
   <em>Diff</em>
   <br>
