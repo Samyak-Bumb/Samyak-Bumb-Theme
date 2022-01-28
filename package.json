@@ -9,6 +9,12 @@
 		"type": "git",
 		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme"
 	},
+	"preview": false,
+	"galleryBanner": {
+		"color": "#000028",
+		"theme": "dark"
+	},
+	"qna": "marketplace",
 	"license": "LICENSE.txt",
 	"keywords": [
 		"Theme",
@@ -20,6 +26,7 @@
 		"Catppuccin",
 		"italic",
 		"code analysis",
+		"ahk",
 		"pythoon",
 		"simple",
 		"Simple Icons",
@@ -90,6 +97,8 @@
 		"code",
 		"s",
 		"sa",
+		"Jain",
+		"dfaf",
 		"sam",
 		"syak",
 		"samyk",
@@ -136,6 +145,7 @@
 		"unique themes",
 		"dracula",
 		"purva",
+		"lodha",
 		"other"
 	],
 	"engines": {
