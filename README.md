@@ -1,4 +1,4 @@
-<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color: #fefefe;background: #ea4c89}</style>
+<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style>
 <h1 align="center"class="main">Samyak Bumb Theme for Visual Studio Code</h1>
 
 This is the Best Theme ever on VS Code By Samyak Bumb.
