@@ -1372,6 +1372,41 @@
       "settings": {
         "foreground": "#05d0ad"
       }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#33c2ee"
+      }
+    },
+    {
+      "scope": "string.other.link.description.markdown",
+      "settings": {
+        "foreground": "#ffb237"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.metadata.markdown",
+        "markup.underline.link.image.markdown",
+        "markup.underline.link.markdown"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#a599e9"
+      }
+    },
+    {
+      "scope": "meta.other.valid-ampersand.markdown",
+      "settings": {
+        "foreground": "#9effff"
+      }
+    },
+    {
+      "scope": "string.other.link.title.markdown",
+      "settings": {
+        "foreground": "#34e9bc"
+      }
     }
   ]
 }
