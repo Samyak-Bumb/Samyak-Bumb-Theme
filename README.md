@@ -1,20 +1,18 @@
-<h1 align="center">
-	Samyak Bumb Theme for Visual Studio Code
-</h1>
+<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color: #fefefe;background: #ea4c89}</style>
+<h1 align="center"class="main">Samyak Bumb Theme for Visual Studio Code</h1>
 
 This is the Best Theme ever on VS Code By Samyak Bumb.
 
-<!-- ![Samyak](https://img.shields.io/badge/Theme-Samyak_Bumb-%23ff0055) -->
 ![Name & Version](https://vsmarketplacebadge.apphb.com/version/samyakbumb.samyak.svg?subject=Samyak_Bumb&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
 ![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License Here")
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HTML")
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HyperText Markup Language (HTML in 1993)")
 
-![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png "CSS")
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png "Cascading Style Sheets (CSS in 1996)")
 
-![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png "JavaScript")
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png "JavaScript in 1995")
 
 # Specially Optimized for:
 
@@ -31,13 +29,15 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>Inf · Ini · AHK · Registry</em>
   <br>
-  <em>JavaScript · JSON / JsonC · React · TypeScript</em>
+  <em>JavaScript · JSON · React · TypeScript</em>
   <br>
   <em>Diff</em>
   <br>
   <em>Python</em>
   <br>
-  😂 <em>Text FIle</em> 😅
+  &
+  <br>
+  😂 <em>Text File</em> 😅
   <br>
 </p>
 
@@ -49,8 +49,6 @@ Step 2 - Read the "README.md" File From it & Follow it to Setup.
 
 ---
 
-![Install](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/install.png "Settings")
-
 # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
@@ -59,9 +57,13 @@ Step 2 - Read the "README.md" File From it & Follow it to Setup.
 
 OR
 
+<div class="code">
+
 ```
 code --install-extension samyakbumb.samyak
 ```
+
+</div>
 
 OR
 
@@ -71,27 +73,24 @@ VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases
 
 Launch _Quick_ Open:
 
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd> 👇
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=22 height=22/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd> 👇
 
   Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
 
-  Relax, Enjoy & Chill!!! 😉😎😍😄👍
+---
+
+<p align="center">Relax, Enjoy & Chill!!! 😉😎😍😄👍<br>Always Happy Coding :)</p>
+
+---
 
 ## Thanks ❤️
 
-- Inspiration - Eva, JellyFish, LaserWave, Dracula, After Dark, SynthWave '84, Winter is Coming & Shades of Purple
-
----
-
-> ## Thanks to Everyone
-
----
+- Inspiration - Eva, JellyFish, LaserWave, Dracula, SynthWave '84 & Winter is Coming
 
 ## Issues
 
-Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any wrong color or Have any Suggestion.
+Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any "Wrong Color" or "Have any Suggestions"
 
 ![Star](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png "5 Stars")
 
@@ -101,14 +100,12 @@ Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/
 
 ---
 
-![License](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/license.png "License Check")
-
 # LICENSE
 
-[© MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt)
+[© MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt "MIT License Link")
 
 ---
 
-✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb "My GitHub Account")** in **[Maharashtra, India (423601)]()**
+✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb "My GitHub Profile")** in **[Maharashtra, India (423601)](https://en.wikipedia.org/wiki/Maharashtra "About Maharashtra, Wikipedia")**
 
 ---
