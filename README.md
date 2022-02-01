@@ -23,9 +23,9 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>Go · Ruby · F# · Java</em>
   <br>
-  <em>CSS · SASS · Scss · Less</em>
+  <em>CSS · Scss / SASS · Less</em>
   <br>
-  <em>HTML · Markdown · Php · Pug (Jade)</em>
+  <em>HTML · Markdown · PHP · Pug (Jade)</em>
   <br>
   <em>Inf · Ini · AHK · Registry</em>
   <br>
