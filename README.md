@@ -45,7 +45,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip "Direct Download Link from GitHub || https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip")**
 
-Step 2 - Read the "README.md" File From it & Follow it to Setup.
+Step 2 - Read the "README.md" File from it & Follow it to Setup.
 
 ---
 
@@ -74,9 +74,9 @@ VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases
 Launch _Quick_ Open:
 
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=22 height=22/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
-- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd> 👇
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
-  Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
+  Now, Type `Samyak Bumb` in the List & Hit<kbd>`Enter`</kbd>the Theme will be Activated.
 
 ---
 
