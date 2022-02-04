@@ -152,7 +152,9 @@
 	"engines": {
 		"vscode": "^1.61.0"
 	},
-	"categories": "Themes",
+	"categories": [
+		"Themes"
+	],
 	"contributes": {
 		"themes": [
 			{
