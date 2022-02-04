@@ -52,8 +52,8 @@ Step 2 - Read the "README.md" File from it & Follow it to Setup.
 # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
-2. Search for `Samyak Bumb Theme`
-3. Click **Install**
+1. Search for `Samyak Bumb Theme`
+1. Click **Install**
 
 OR
 
