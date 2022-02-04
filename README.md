@@ -1,4 +1,4 @@
-<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style>
+<!--<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style>-->
 <h1 align="center"class="main">Samyak Bumb Theme for Visual Studio Code</h1>
 
 This is the Best Theme ever on VS Code By Samyak Bumb.
@@ -23,9 +23,9 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
   <br>
   <em>Go · Ruby · F# · Java</em>
   <br>
-  <em>CSS · SASS · Scss · Less</em>
+  <em>CSS · Scss / SASS · Less</em>
   <br>
-  <em>HTML · Markdown · Php · Pug (Jade)</em>
+  <em>HTML · Markdown · PHP · Pug (Jade)</em>
   <br>
   <em>Inf · Ini · AHK · Registry</em>
   <br>
@@ -45,15 +45,15 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip "Direct Download Link from GitHub || https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip")**
 
-Step 2 - Read the "README.md" File From it & Follow it to Setup.
+Step 2 - Read the "README.md" File from it & Follow it to Setup.
 
 ---
 
 # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
-2. Search for `Samyak Bumb Theme`
-3. Click **Install**
+1. Search for `Samyak Bumb Theme`
+1. Click **Install**
 
 OR
 
@@ -74,9 +74,9 @@ VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases
 Launch _Quick_ Open:
 
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=22 height=22/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
-- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd> 👇
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
-  Now, Type `Samyak Bumb` in the List & Hit<kbd>Enter</kbd>the Theme will be Activated.
+  Now, Type `Samyak Bumb` in the List & Hit<kbd>`Enter`</kbd>the Theme will be Activated.
 
 ---
 
