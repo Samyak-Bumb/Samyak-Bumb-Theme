@@ -1,12 +1,19 @@
-<!--<style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style>-->
+<!-- <style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style> -->
+
+---
+
 <h1 align="center"class="main">Samyak Bumb Theme for Visual Studio Code</h1>
 
-This is the Best Theme ever on VS Code By Samyak Bumb.
+This is the Best Theme ever on VS Code By Samyak Bumb.<br><br>
 
 ![Name & Version](https://vsmarketplacebadge.apphb.com/version/samyakbumb.samyak.svg?subject=Samyak_Bumb&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
 ![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License Here")
 
-![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
+<div align="center"}">
+
+![Preview ](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
+
+</div>
 
 ![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HyperText Markup Language (HTML in 1993)")
 
@@ -16,7 +23,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.
 
 # Specially Optimized for:
 
-<p align="center">
+<p align="center" style="color:#bbb">
   <em>Batch · VBScript · PowerShell</em>
   <br>
   <em>C · C++ · C#</em>
@@ -47,8 +54,6 @@ Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup
 
 Step 2 - Read the "README.md" File from it & Follow it to Setup.
 
----
-
 # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
@@ -67,14 +72,14 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-8.0.2.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-8.0.4.vsix "Latest .vsix File Download")** Link
 
 ## Activate Theme
 
 Launch _Quick_ Open:
 
-- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=22 height=22/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
-- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=18 height=18/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=23 height=23/>&nbsp;&nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=21 height=21/>&nbsp;&nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
   Now, Type `Samyak Bumb` in the List & Hit<kbd>`Enter`</kbd>the Theme will be Activated.
 
