@@ -17,6 +17,16 @@
 	"qna": "marketplace",
 	"license": "LICENSE.txt",
 	"markdown": "standard",
+	"activationEvents": [
+		"*"
+	],
+	"author": {
+		"name": "Samyak Bumb"
+	},
+	"bugs": {
+		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues"
+	},
+	"homepage": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/README.md",
 	"keywords": [
 		"Theme",
 		"Themes",
@@ -151,7 +161,7 @@
 		"other"
 	],
 	"engines": {
-		"vscode": "^1.61.0"
+		"vscode": "^1.50.0"
 	},
 	"categories": [
 		"Themes"
