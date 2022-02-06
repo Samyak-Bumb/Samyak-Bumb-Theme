@@ -1,7 +1,5 @@
 <!-- <style>*{-webkit-user-drag:none;scroll-behavior:smooth}html{user-select:none}.main,.code{user-select: all}::selection{color:#fefefe;background:#ea4c89}</style> -->
 
----
-
 <h1 align="center"class="main">Samyak Bumb Theme for Visual Studio Code</h1>
 
 This is the Best Theme ever on VS Code By Samyak Bumb.<br><br>
@@ -81,7 +79,7 @@ Launch _Quick_ Open:
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/apple.png" width=23 height=23/>&nbsp;&nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/a/win.png" width=21 height=21/>&nbsp;&nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
-  Now, Type `Samyak Bumb` in the List & Hit<kbd>`Enter`</kbd>the Theme will be Activated.
+  Now, Type `Samyak Bumb` in the List & Hit <kbd>`Enter`</kbd> the Theme will be Activated.
 
 ---
 
