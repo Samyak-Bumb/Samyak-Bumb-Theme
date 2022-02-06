@@ -17,9 +17,6 @@
 	"qna": "marketplace",
 	"license": "LICENSE.txt",
 	"markdown": "standard",
-	"activationEvents": [
-		"*"
-	],
 	"author": {
 		"name": "Samyak Bumb"
 	},
