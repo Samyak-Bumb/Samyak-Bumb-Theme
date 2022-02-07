@@ -24,7 +24,7 @@ This is the Best Theme ever on VS Code By Samyak Bumb.<br><br>
   <br>
   <em>C · C++ · C#</em>
   <br>
-  <em>Go · Ruby · F# · Java</em>
+  <em>Go · Ruby · F# · Java · XML</em>
   <br>
   <em>CSS · Scss / SASS · Less</em>
   <br>
@@ -64,7 +64,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-8.0.5.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-8.0.6.vsix "Latest .vsix File Download")** Link
 
 ## Activate Theme
 
