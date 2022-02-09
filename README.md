@@ -7,13 +7,11 @@
 This is the Best Theme ever on VS Code By Samyak Bumb
 
 </div>
-<br>
 
 ![Name & Version](https://vsmarketplacebadge.apphb.com/version/samyakbumb.samyak.svg?subject=Samyak_Bumb&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
-&nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License Here")<br><br>
+&nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License Here")<br>
 
-![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")<br>
-<br>
+![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
 ![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HyperText Markup Language (HTML in 1993)")
 
