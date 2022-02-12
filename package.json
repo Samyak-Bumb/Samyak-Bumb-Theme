@@ -20,6 +20,9 @@
 	"author": {
 		"name": "Samyak Bumb"
 	},
+	"maintainers": [
+		"Samyak Bumb <bumbsamyak07@gmail.com>"
+	],
 	"bugs": {
 		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues"
 	},
@@ -39,6 +42,9 @@
 		"simple",
 		"Simple Icons",
 		"Simple Icon",
+		"Blue",
+		"Purple",
+		"cyber",
 		"simple theme",
 		"bold",
 		"saam",
