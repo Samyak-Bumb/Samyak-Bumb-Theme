@@ -1,7 +1,7 @@
 {
 	"name": "samyak",
 	"displayName": "Samyak Bumb Theme",
-	"description": "Preferred Dark Theme By Samyak Bumb. \"Best Dark\" & \"All Rounder\" Theme Ever You Have Seen - https://github.com/Samyak-Bumb/Samyak-Bumb-Theme",
+	"description": "Preferred Dark Theme By Samyak Bumb. \"All Rounder\" Theme - https://github.com/Samyak-Bumb/Samyak-Bumb-Theme",
 	"version": "8.1.4",
 	"publisher": "SamyakBumb",
 	"icon": "img/ico_logo.png",
@@ -97,6 +97,7 @@
 		"git",
 		"vue",
 		"unique theme",
+		"code",
 		"coding",
 		"game",
 		"gaming",
@@ -147,7 +148,7 @@
 		"other"
 	],
 	"engines": {
-		"vscode": "^1.50.0"
+		"vscode": "^1.10.0"
 	},
 	"categories": [
 		"Themes"
