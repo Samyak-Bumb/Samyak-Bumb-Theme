@@ -11,7 +11,7 @@
 	},
 	"preview": false,
 	"galleryBanner": {
-		"color": "#00002b",
+		"color": "#00001e",
 		"theme": "dark"
 	},
 	"qna": "marketplace",
@@ -28,7 +28,6 @@
 	},
 	"homepage": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/README.md",
 	"keywords": [
-		".",
 		"..",
 		"ahk",
 		"ak",
@@ -68,7 +67,6 @@
 		"git",
 		"fluent",
 		"typescript",
-		"dart",
 		"moonlight",
 		"flutter",
 		"ios",
