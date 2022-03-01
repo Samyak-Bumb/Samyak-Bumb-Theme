@@ -66,14 +66,14 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.0.3.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.1.0.vsix "Latest .vsix File Download")** Link
 
 ## Activate Theme
 
 Launch _Quick Open_:
 
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/os/apl.png" width="21"> &nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf" title="macOS Keyboard"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
-- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/os/win.png" width=21> &nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" title="Windows Keyboard"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
+- <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/os/win.png" width="21"> &nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" title="Windows Keyboard"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
   Now, Type `Samyak Bumb` in the List & Hit <kbd>`Enter`</kbd> the Theme will be Activated.
 
