@@ -34,14 +34,10 @@
 		"beast",
 		"Blue",
 		"Bumb",
-		"Theme",
 		"Night Owl",
 		"Themes",
 		"eye strain",
 		"Hustler",
-		"python theme",
-		"html theme",
-		"css theme",
 		"theem",
 		"Stepsize",
 		"paln",
@@ -104,7 +100,6 @@
 		"cobalt2",
 		"winter",
 		"hello",
-		"helloworld",
 		"world",
 		"sayak",
 		"samyakk",
@@ -116,9 +111,8 @@
 		"terminal",
 		"Coder",
 		"neon",
-		"vsc-theme",
+		"vsc-themes",
 		"customization",
-		"color-theme",
 		"Dream",
 		"Night",
 		"color-themes",
@@ -139,7 +133,7 @@
 			{
 				"label": "Samyak Bumb",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Samyak Bumb-color-theme.json"
+				"path": "./themes/Samyak-color-theme.json"
 			}
 		]
 	},
