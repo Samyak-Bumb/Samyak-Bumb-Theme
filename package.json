@@ -11,11 +11,11 @@
 	},
 	"preview": false,
 	"galleryBanner": {
-		"color": "#00002e",
+		"color": "#00002f",
 		"theme": "dark"
 	},
 	"qna": "marketplace",
-	"license": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt",
+	"license": "MIT",
 	"markdown": "standard",
 	"author": {
 		"name": "Samyak Bumb"
@@ -106,7 +106,7 @@
 		"other"
 	],
 	"engines": {
-		"vscode": "^1.10.0"
+		"vscode": "*"
 	},
 	"categories": [
 		"Themes"

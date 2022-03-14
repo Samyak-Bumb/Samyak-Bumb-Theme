@@ -44,7 +44,7 @@ Step 2 - Read the "README.md" File from it & Follow it to Setup.
 ---
 # Installation of Theme
 
-1. Open **Extensions** from SideBar Panel. `View → Extensions`<kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
+1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
 1. Search for `Samyak Bumb Theme`
 1. Click on **Install**
 
@@ -56,7 +56,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.2.0.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.3.0.vsix "Latest .vsix File Download")** Link
 
 ---
 ## Activate Theme
@@ -69,7 +69,7 @@ OR
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/os/apl.png" width="21"> &nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf" title="macOS Keyboard"><b>macOS</b></a> <kbd>`⌘`</kbd>+<kbd>`K`</kbd>+<kbd>`⌘`</kbd>+<kbd>`T`</kbd>
 - <img src="https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/os/win.png" width="21"> &nbsp;<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf" title="Windows Keyboard"><b>Windows</b></a> <kbd>`Ctrl`</kbd>+<kbd>`K`</kbd>+<kbd>`Ctrl`</kbd>+<kbd>`T`</kbd>
 
-  Now, Type `Samyak Bumb` in the List & Hit <kbd>`Enter`</kbd> the Theme will be Activated.
+  Now, Type `Samyak Bumb` in the List & Hit <kbd>`Enter`</kbd> The Theme will be Activated
 
 ---
 
@@ -78,11 +78,11 @@ OR
 ---
 ## Thanks ❤️
 
-- Inspiration - Eva, JellyFish, LaserWave, Dracula, SynthWave '84 & Winter is Coming
+- Inspiration - Eva, JellyFish, Dracula, SynthWave '84 & Winter is Coming
 ---
 ## Issues
 
-Submit the [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any "Wrong Color" or "Have any Suggestions"
+Submit your [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any Wrong Color or Have any "Suggestions"
 
 ![Star](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png "5 Stars")
 
