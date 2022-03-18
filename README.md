@@ -4,9 +4,10 @@
 # Samyak Bumb Theme
 
 This is the Best Theme Ever on VS Code By Samyak Bumb
+
 </div>
 
-![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak&nbsp;Bumb&nbsp;Theme&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
+![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak Bumb Theme =1c1c1c =%23ff0055 "Name & Latest Version")
 &nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
 &nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=41.53KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
 
@@ -23,10 +24,10 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 <p align="center">
   <em>Batch · VBScript · PowerShell</em><br>
   <em>C · C++ · C#</em><br>
-  <em>Go · Ruby · F# · Java · XML</em><br>
+  <em>Go · Ruby · F# · Java</em><br>
   <em>CSS · SCSS / SASS · Less</em><br>
-  <em>HTML · Markdown · PHP · Pug (Jade)</em><br>
-  <em>Inf · Ini · AHK · Registry</em><br>
+  <em>HTML · Vue · Markdown · PHP · Pug (Jade)</em><br>
+  <em>Inf · Ini · AHK · Registry · XML</em><br>
   <em>JavaScript · JSON · React · TypeScript</em><br>
   <em>Diff</em><br>
   <em>Python</em><br>
@@ -35,13 +36,15 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 </p>
 
 ---
+
 # My VSCode Setup :-
 
 Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip "Direct Download Link from GitHub || https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip")**
 
-Step 2 - Read the "README.md" File from it & Follow it to Setup.
+Step 2 - Read the "README.md" File from it & Follow it.
 
 ---
+
 # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
@@ -56,13 +59,13 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.3.0.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.3.1.vsix "Latest .vsix File Download")** Link
 
 ---
+
 ## Activate Theme
 
 Launch _File > Preferences > Color Theme_ :-
-
 
 OR
 
@@ -76,10 +79,13 @@ OR
 <p align="center">Relax, Enjoy & Chill !!! 😉😎😍😄👍<br>Always Happy Coding :)</p>
 
 ---
+
 ## Thanks ❤️
 
 - Inspiration - Eva, JellyFish, Dracula, SynthWave '84 & Winter is Coming
+
 ---
+
 ## Issues
 
 Submit your [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any Wrong Color or Have any "Suggestions"
@@ -91,11 +97,13 @@ Submit your [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues
 - [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details "VS Code Marketplace")
 
 ---
+
 # LICENSE
 
 [© MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt "MIT License Link")
 
 ---
+
 ✨ Created, Designed & Managed by **[Samyak Bumb](https://github.com/samyak-bumb "My GitHub Profile")** from **[Maharashtra, India (423601)](https://en.wikipedia.org/wiki/Maharashtra "About Maharashtra, Wikipedia")**
 
 ---
