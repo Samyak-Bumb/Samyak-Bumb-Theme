@@ -9,7 +9,7 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 ![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak&nbsp;BumbTheme&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
 &nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
-&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=41.86KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
+&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=41.76KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
@@ -59,7 +59,7 @@ code --install-extension samyakbumb.samyak
 
 OR
 
-VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.4.0.vsix "Latest .vsix File Download")** Link
+VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases/download/Extension/samyak-9.5.0.vsix "Latest .vsix File Download")** Link
 
 ---
 
