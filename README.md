@@ -7,17 +7,17 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 </div>
 
-![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak&nbsp;BumbTheme&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
+![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak&nbsp;Bumb&nbsp;Theme&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
 &nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
-&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=41.32KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
+&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=39.03KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/htm.png "HyperText Markup Language (HTML in 1993)")
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/htm.png "HyperText Markup Language (HTML in 1993)")
 
-![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/css.png "Cascading Style Sheets (CSS in 1996)")
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/css.png "Cascading Style Sheets (CSS in 1996)")
 
-![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/New_folder/js.png "JavaScript (JS in 1995")
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/js.png "JavaScript (JS in 1995")
 
 # Specially Optimized for :-
 
