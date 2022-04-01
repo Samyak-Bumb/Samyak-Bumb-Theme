@@ -4,7 +4,7 @@
 	"description": "Preferred Dark Theme By Samyak Bumb - https://github.com/Samyak-Bumb/Samyak-Bumb-Theme",
 	"version": "10.0.2",
 	"publisher": "SamyakBumb",
-	"icon": "img/ico_logo.png",
+	"icon": "img/ico.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme"
@@ -36,7 +36,8 @@
 		"Themes",
 		"Hustler",
 		"theem",
-		"paln",
+		"pink",
+		"cute",
 		"jelly",
 		"fansy",
 		"pets",
@@ -49,7 +50,6 @@
 		"flutter",
 		"floss",
 		"php",
-		"java",
 		"javascript",
 		"css",
 		"python",
