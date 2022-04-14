@@ -14,15 +14,11 @@
 		"color": "#00002f",
 		"theme": "dark"
 	},
-	"qna": "marketplace",
 	"license": "MIT",
 	"markdown": "standard",
 	"author": {
 		"name": "Samyak Bumb"
 	},
-	"maintainers": [
-		"Samyak Bumb <bumbsamyak07@gmail.com>"
-	],
 	"bugs": {
 		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues"
 	},
@@ -40,6 +36,7 @@
 		"cute",
 		"jelly",
 		"fansy",
+		"samak",
 		"pets",
 		"VSC-Essentials",
 		"codestackr",
@@ -47,8 +44,10 @@
 		"fluent",
 		"typescript",
 		"moonlight",
+		"samak",
 		"flutter",
 		"floss",
+		"samk",
 		"php",
 		"javascript",
 		"css",
