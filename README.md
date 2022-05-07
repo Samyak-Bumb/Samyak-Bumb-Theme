@@ -7,7 +7,7 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 </div>
 
-![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak&nbsp;Bumb&nbsp;Theme&colorA=1c1c1c&colorB=%23ff0055 "Name & Latest Version")
+![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?label=Samyak Bumb Theme =1c1c1c =%23ff0055 "Name & Latest Version")
 &nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
 &nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=38.6KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
 
@@ -82,7 +82,7 @@ OR
 
 ## Thanks ❤️
 
-- Inspiration - Eva, JellyFish, Dracula, SynthWave '84 & Winter is Coming
+- Inspiration - Eva, JellyFish, Moonlight, Dracula, SynthWave '84 & Winter is Coming
 
 ---
 
