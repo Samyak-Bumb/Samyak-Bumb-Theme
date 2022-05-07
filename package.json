@@ -102,7 +102,7 @@
 			{
 				"label": "Samyak Bumb",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Samyak-color-theme.json"
+				"path": "./themes/color-theme.json"
 			}
 		]
 	},
