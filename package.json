@@ -1,0 +1,113 @@
+{
+	"name": "samyak",
+	"displayName": "Samyak Bumb Theme",
+	"description": "Preferred Dark Theme By Samyak Bumb - https://github.com/Samyak-Bumb/Samyak-Bumb-Theme",
+	"version": "10.0.11",
+	"publisher": "SamyakBumb",
+	"icon": "img/ico.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme"
+	},
+	"preview": false,
+	"galleryBanner": {
+		"color": "#00002f",
+		"theme": "dark"
+	},
+	"license": "MIT",
+	"markdown": "standard",
+	"author": {
+		"name": "Samyak Bumb"
+	},
+	"bugs": {
+		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues"
+	},
+	"homepage": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/README.md",
+	"keywords": [
+		"..",
+		"ahk",
+		"ak",
+		"Bumb",
+		"Night Owl",
+		"Themes",
+		"Hustler",
+		"theem",
+		"pink",
+		"cute",
+		"jelly",
+		"fansy",
+		"samak",
+		"pets",
+		"VSC-Essentials",
+		"codestackr",
+		"customize",
+		"fluent",
+		"typescript",
+		"moonlight",
+		"samak",
+		"flutter",
+		"floss",
+		"samk",
+		"php",
+		"javascript",
+		"css",
+		"python",
+		"Dark Theme",
+		"VSCode",
+		"Samyak Bumb",
+		"Samyak's Theme",
+		"html",
+		"js",
+		"cyberpunk",
+		"vue",
+		"code",
+		"coding",
+		"game",
+		"gaming",
+		"Jain",
+		"dfaf",
+		"s",
+		"sa",
+		"sam",
+		"saam",
+		"samay",
+		"samayak",
+		"samyk",
+		"sayak",
+		"syak",
+		"winter",
+		"eva",
+		"popular",
+		"shades",
+		"Purple",
+		"terminal",
+		"Coder",
+		"neon",
+		"vsc-themes",
+		"customization",
+		"Dream",
+		"Night",
+		"color-themes",
+		"unique",
+		"dracula"
+	],
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Samyak Bumb",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"electron-rebuild": "^3.2.3",
+		"eslint": "^8.1.0"
+	}
+}

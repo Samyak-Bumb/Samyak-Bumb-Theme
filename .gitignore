@@ -1,0 +1,6 @@
+imga/
+.vscodeignore
+.vscode/*.*
+.github/*.*
+*.vsix
+new/*.*
