@@ -1,6 +1,6 @@
 imga/
 .vscodeignore
-.vscode/*.*
-.github/*.*
+.vscode/
+.github/
 *.vsix
-new/*.*
+new/

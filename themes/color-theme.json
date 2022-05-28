@@ -66,12 +66,12 @@
     "editorMarkerNavigationInfo.background": "#598def",
     "editorOverviewRuler.background": "#00002c00",
     "editorOverviewRuler.findMatchForeground": "#86e1fcbb",
-    "editorOverviewRuler.modifiedForeground": "#b893ce99",
-    "editorOverviewRuler.addedForeground": "#18f1d1fe",
+    "editorOverviewRuler.modifiedForeground": "#b881d899",
+    "editorOverviewRuler.addedForeground": "#13c7acfe",
     "editorOverviewRuler.deletedForeground": "#bf616afe",
     "editorOverviewRuler.errorForeground": "#bf616afe",
-    "editorOverviewRuler.warningForeground": "#ffcc95",
-    "editorOverviewRuler.infoForeground": "#6fc1fffe",
+    "editorOverviewRuler.warningForeground": "#e6b684fe",
+    "editorOverviewRuler.infoForeground": "#66b3eefe",
     "editorOverviewRuler.bracketMatchForeground": "#3e68d7bb",
     "editorOverviewRuler.rangeHighlightForeground": "#2d3039fe",
     "editorOverviewRuler.selectionHighlightForeground": "#008099bf",
@@ -130,7 +130,7 @@
     "editorLink.activeForeground": "#88b0ffd4",
     "editorWhitespace.foreground": "#00003c",
     "editorUnnecessaryCode.border": "#00002c",
-    "editorUnicodeHighlight.border": "#ff000f",
+    "editorUnicodeHighlight.border": "#ff0001",
     "editorBracketMatch.background": "#000",
     "editorBracketMatch.border": "#444444df",
     "editorBracketHighlight.foreground1": "#b084eb",
@@ -171,7 +171,7 @@
     "notifications.background": "#00002c",
     "notifications.foreground": "#ffffffcc",
     "notifications.border": "#7e95ff",
-    "notificationsErrorIcon.foreground": "#ff000f",
+    "notificationsErrorIcon.foreground": "#ff0001",
     "notificationsWarningIcon.foreground": "#ffca28",
     "notificationsInfoIcon.foreground": "#009fff",
     "notificationCenter.border": "#0000",
@@ -183,7 +183,7 @@
     "minimap.selectionHighlight": "#5f97ff50",
     "minimap.selectionOccurrenceHighlight": "#5f97ff50",
     "minimap.errorHighlight": "#ff000170",
-    "minimasp.warningHighlight": "#ffca2870",
+    "minimap.warningHighlight": "#ffca2870",
     "minimapSlider.background": "#655bc270",
     "minimapSlider.hoverBackground": "#655bc270",
     "minimapSlider.activeBackground": "#6f77c750",
@@ -515,7 +515,7 @@
         "support.type.property-name.css"
       ],
       "settings": {
-        "foreground": "#60c7a0"
+        "foreground": "#60c5a0"
       }
     },
     {
@@ -707,7 +707,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#95c9ff"
+        "foreground": "#8abef7"
       }
     },
     {
@@ -975,7 +975,7 @@
         "variable.other.object.property.js"
       ],
       "settings": {
-        "foreground": "#f0bf90"
+        "foreground": "#e4b487"
       }
     }
   ]
