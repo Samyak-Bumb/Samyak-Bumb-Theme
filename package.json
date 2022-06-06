@@ -11,14 +11,10 @@
 	},
 	"preview": false,
 	"galleryBanner": {
-		"color": "#00002f",
+		"color": "#00002d",
 		"theme": "dark"
 	},
 	"license": "MIT",
-	"markdown": "standard",
-	"author": {
-		"name": "Samyak Bumb"
-	},
 	"bugs": {
 		"url": "https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues"
 	},
