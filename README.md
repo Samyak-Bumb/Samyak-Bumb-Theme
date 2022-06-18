@@ -7,9 +7,9 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 </div>
 
-![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?colorA=1c1c1c&colorB=%23ff0055&label=Samyak&nbsp;Bumb&nbsp;Theme "Name & Latest Version")
-&nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=1c1c1c&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
-&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=38.4KB&colorA=1c1c1c&colorB=%23ff0055 "Total Size of Extension")<br>
+![Name & Version](https://img.shields.io/visual-studio-marketplace/v/samyakbumb.samyak.svg?colorA=00002b&colorB=%23ff0055&label=Samyak&nbsp;Bumb&nbsp;Theme "Name & Latest Version")
+&nbsp;![License](https://img.shields.io/github/license/Samyak-Bumb/Samyak-Bumb-Theme?&logo=simpleanalytics&colorA=00002b&colorB=%23ff0055&label=License&logo=License&style=flat "MIT License")
+&nbsp;![Size](https://img.shields.io/static/v1?label=Size&message=38.1KB&colorA=00002b&colorB=%23ff0055 "Total Size of Extension")<br>
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
@@ -19,33 +19,33 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 ![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/j.png "JavaScript (JS in 1995")
 
-# Specially Optimized for :-
+> # Specially Optimized for :-
 
 <p align="center">
-  <em>Batch · VBScript · PowerShell</em><br>
-  <em>C · C++ · C#</em><br>
-  <em>Go · Ruby · F# · Java</em><br>
-  <em>CSS · SCSS / SASS · Less</em><br>
-  <em>HTML · Vue · Markdown · PHP · Pug (Jade)</em><br>
-  <em>Inf · Ini · AHK · Registry · XML</em><br>
-  <em>JavaScript · JSON · React · TypeScript</em><br>
-  <em>Diff</em><br>
-  <em>Python</em><br>
+  <i>Batch · VBScript · PowerShell</i><br>
+  <i>C · C++ · C#</i><br>
+  <i>Go · Ruby · F# · Java</i><br>
+  <i>CSS · SCSS / SASS · Less</i><br>
+  <i>HTML · Vue · Markdown · PHP · Pug (Jade)</i><br>
+  <i>Inf · Ini · AHK · Registry · XML</i><br>
+  <i>JavaScript · JSON · React · TypeScript</i><br>
+  <i>Diff</i><br>
+  <i>Python</i><br>
   &<br>
-  😂 <em>Text File</em> 😅<br>
+  😂 <i>Text File</i> 😅<br>
 </p>
 
 ---
 
-# My VSCode Setup :-
+> # My VSCode Setup :-
 
 Step 1 - GitHub Link = **[Download](https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip "Direct Download Link from GitHub || https://github.com/Samyak-Bumb/VS_Code-Setup/archive/refs/heads/Samyak.zip")**
 
-Step 2 - Read the "README.md" File from it & Follow it.
+Step 2 - Read the "README.md" File & Follow it.
 
 ---
 
-# Installation of Theme
+> # Installation of Theme
 
 1. Open **Extensions** from SideBar Panel. `View → Extensions` <kbd>`Ctrl`</kbd>+<kbd>`Shift`</kbd>+<kbd>`X`</kbd>
 1. Search for `Samyak Bumb Theme`
@@ -63,7 +63,7 @@ VSIX File **[Download](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/releases
 
 ---
 
-## Activate Theme
+> ## Activate Theme
 
 Launch _File > Preferences > Color Theme_ :-
 
@@ -76,29 +76,29 @@ OR
 
 ---
 
-<p align="center">Relax, Enjoy & Chill !!! 😉😎😍😄👍<br>Always Happy Coding :)</p>
+<p align="center">Relax, Enjoy & Chill !!! 😉😎😍😄👍<br> Happy Coding :)</p>
 
 ---
 
-## Thanks ❤️
+> ## Thanks ❤️
 
-- Inspiration - Eva, JellyFish, Moonlight, Dracula, SynthWave '84 & Winter is Coming
+- **Inspiration** - Eva, JellyFish, Moonlight, Dracula, SynthWave '84 & Winter is Coming
 
 ---
 
-## Issues
+> ## Issues
 
 Submit your [**issues**](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/issues/new/choose) if you find any Wrong Color or Have any "Suggestions"
 
-![Star](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/star.png "5 Stars")
+---
 
-## Rating/Review
+> ## Rating/Review
 
-- [5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details "VS Code Marketplace")
+- **[5 Star ❤️ ❤️ ❤️ ❤️ ❤️ Rating](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak&ssr=false#review-details "VS Code Marketplace")**
 
 ---
 
-# LICENSE
+> ## LICENSE
 
 [© MIT](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme/blob/Samyak/LICENSE.txt "MIT License Link")
 
