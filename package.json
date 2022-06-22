@@ -22,9 +22,8 @@
 	"keywords": [
 		"calva",
 		"kanagawa",
-		"bearded",
 		"macaron",
-		"fluid",
+		"VSLook",
 		"ahk",
 		"ak",
 		"night owl",
@@ -80,9 +79,5 @@
 				"path": "./themes/color-theme.json"
 			}
 		]
-	},
-	"devDependencies": {
-		"electron-rebuild": "^3.2.3",
-		"eslint": "^8.1.0"
 	}
 }
