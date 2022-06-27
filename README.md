@@ -13,11 +13,11 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
 
 ![Preview](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/new_ico/pre.png "Preview Img")
 
-![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/h.png "HyperText Markup Language (HTML in 1993)")
+![HTML](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/h.png "HTML (HyperText Markup Language)")
 
-![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/c.png "Cascading Style Sheets (CSS in 1996)")
+![CSS](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/c.png "CSS (Cascading Style Sheets)")
 
-![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/j.png "JavaScript (JS in 1995")
+![JavaScript](https://raw.githubusercontent.com/Samyak-Bumb/xyz/Samyak/j.png "JS (JavaScript)")
 
 > # Specially Optimized for :-
 
