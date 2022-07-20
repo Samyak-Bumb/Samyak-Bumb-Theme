@@ -30,7 +30,7 @@ This is the Best Theme Ever on VS Code By Samyak Bumb
   <i>Inf · Ini · AHK · Registry · XML</i><br>
   <i>JavaScript · JSON · React · TypeScript</i><br>
   <i>Diff</i><br>
-  <i>Python</i><br>
+  <i>Python · GDScript</i><br>
   &<br>
   😂 <i>Text File</i> 😅<br>
 </p>
@@ -77,12 +77,6 @@ OR
 ---
 
 <p align="center">Relax, Enjoy & Chill !!! 😉😎😍😄👍<br> Happy Coding :)</p>
-
----
-
-> ## Thanks ❤️
-
-- **Inspiration** - Eva, JellyFish, Moonlight, Dracula, SynthWave '84 & Winter is Coming
 
 ---
 
